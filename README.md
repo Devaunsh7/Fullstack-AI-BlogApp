@@ -8,9 +8,7 @@
 
 # Fullstack AI-Powered Blog App
 
-Build a modern **AI-driven blog platform** using the **MERN stack**, **Google Gemini**, and **ImageKit API**—as demonstrated in [this tutorial](https://youtu.be/yl9pwazDHUw) by GreatStack (formerly Easy Tutorials).
-
----
+Build a modern **AI-driven blog platform** using the **MERN stack**, **Google Gemini**, and **ImageKit API**
 
 ##  Features
 
@@ -155,7 +153,6 @@ MIT License — feel free to use, modify, and share!
 
 ## Acknowledgements
 
-* Inspired by **GreatStack/Easy Tutorials** video on building a MERN + AI blog application ([YouTube][1])
 * Thanks to **Google Gemini** (AI compliance) and **ImageKit API** (media optimization)
 
 ---
@@ -168,3 +165,4 @@ MIT License — feel free to use, modify, and share!
 * Visualize tech stack with icons or diagrams
 
 ---
+
